@@ -29,7 +29,8 @@
 
 6. **Eficiência do Staff:**
 
-   - Quais funcionários fizeram mais vendas?
+   - Quais funcionários fizeram mais vendas por cada loja?
+   - Qual o total de dinheiro cada funcionário vendeu por cada loja?
 
 7. **Tendências de Gênero e Idioma:**
 
