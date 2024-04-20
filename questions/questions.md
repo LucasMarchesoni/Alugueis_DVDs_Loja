@@ -12,32 +12,38 @@
 
 3. **Gestão de Estoque:**
 
-   - Quais filmes estão em falta no inventário?
-   - Quais filmes têm a maior taxa de rotatividade?
-   - Qual é a proporção de DVDs versus Blu-rays alugados?
+   - Quais filmes estão a mais tempo no estoque?
 
 4. **Desempenho da Loja:**
 
-   - Qual loja tem a maior receita de aluguel este mês?
-   - Qual loja tem a melhor taxa de retenção de clientes?
-   - Como o desempenho de uma loja se compara ao das outras em termos de lucro líquido?
+   - Qual loja com mais vendas?
+   - Quais cidades possuem loja?
+   - Qual o faturamento de cada loja indicando o valor e a cidade da loja?
 
 5. **Análise de Localização:**
 
-   - Em que cidade há maior demanda por filmes de determinado gênero?
-   - Qual a correlação entre o tamanho da cidade e o volume de alugueis?
+   - Qual cidade possui mais clientes?
+   - Qual país possui mais clientes?
+   - Qual o faturamento por cidade?
+   - Qual o faturamento por país?
 
 6. **Eficiência do Staff:**
 
-   - Quais funcionários têm a melhor taxa de conversão de aluguéis?
-   - Quais funcionários têm a maior taxa de devolução dentro do prazo?
+   - Quais funcionários fizeram mais vendas?
 
 7. **Tendências de Gênero e Idioma:**
 
-   - Quais são os gêneros mais populares em diferentes regiões?
-   - Existe uma correlação entre a língua do filme e a demografia dos clientes?
+   - Quais são os gêneros mais populares em diferentes países?
+   - Existe uma correlação entre a língua do filme e a cidade dos clientes?
 
-8. **Análise Financeira:**
+8. **Análise dos filmes:**
+
+   - Quais atores estavam mais presentes nos filmes?
+   - Qual o filme mais antigo?
+   - Qual o filme mais bem avaliado?
+   - Qual o filme mais longo?
+
+9. **Análise Financeira:**
    - Qual é o filme mais lucrativo este ano?
    - Qual é a média de receita por aluguel?
-   - Quais são os métodos de pagamento mais utilizados pelos clientes?
+   - Quais clientes fizeram mais compras e qual foi o valor gasto?
