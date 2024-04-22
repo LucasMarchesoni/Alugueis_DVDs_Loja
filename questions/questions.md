@@ -43,6 +43,6 @@
    - Qual o filme mais longo?
 
 9. **Análise Financeira:**
-   - Qual é o filme mais lucrativo este ano?
+   - Qual é o filme mais lucrativo?
    - Qual é a média de receita por aluguel?
    - Quais clientes fizeram mais compras e qual foi o valor gasto?
