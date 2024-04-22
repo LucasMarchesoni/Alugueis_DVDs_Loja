@@ -32,15 +32,13 @@
    - Quais funcionários fizeram mais vendas por cada loja?
    - Qual o total de dinheiro cada funcionário vendeu por cada loja?
 
-7. **Tendências de Gênero e Idioma:**
+7. **Tendências de Gênero:**
 
    - Quais são os gêneros mais populares em diferentes países?
-   - Existe uma correlação entre a língua do filme e a cidade dos clientes?
 
 8. **Análise dos filmes:**
 
    - Quais atores estavam mais presentes nos filmes?
-   - Qual o filme mais antigo?
    - Qual o filme mais bem avaliado?
    - Qual o filme mais longo?
 
