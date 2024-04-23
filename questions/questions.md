@@ -39,7 +39,7 @@
 8. **Análise dos filmes:**
 
    - Quais atores estavam mais presentes nos filmes?
-   - Qual o filme mais bem avaliado?
+   - Quais as restrições dos filmes?
    - Qual o filme mais longo?
 
 9. **Análise Financeira:**
